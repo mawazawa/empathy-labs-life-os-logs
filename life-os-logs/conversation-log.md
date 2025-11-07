@@ -66,3 +66,12 @@
 **Status**: Complete - ready for presidential productivity without over-engineering
 
 
+### Decision Logging SOP Complete - Thu Nov  6 23:43:05 PST 2025
+
+**Decision**: Implement decision logging SOP in PrinciplesOS
+**Components**: decision-log.md with timestamp|decision|reasoning|authority|review_cadence format
+**Features**: Configurable archive threshold, review cadence tracking, git commit automation
+**Authority**: Mathieu directive + Smart Friend feedback
+**Status**: Complete - ready for presidential productivity decision tracking
+
+
