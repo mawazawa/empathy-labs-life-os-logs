@@ -1,0 +1,18 @@
+{
+  "name": "empathy-labs",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "workspaces": [
+    "ACDC",
+    "LilScrappy",
+    "Unigami",
+    "PrinciplesOS",
+    "JusticeOS",
+    "LifeOS"
+  ],
+  "scripts": {
+    "lint": "echo \"lint placeholder\"",
+    "format": "echo \"format placeholder\"",
+    "typecheck": "echo \"typecheck placeholder\""
+  }
+}
