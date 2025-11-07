@@ -17,8 +17,9 @@ Track every decision with minimal tokens for audit trail and accountability.
 
 ### 3. Lightweight Logging System
 - **Active Log**: Current decisions in main decision-log.md
-- **Archive Threshold**: 50 entries triggers archival
+- **Archive Threshold**: Configurable in PERSONAL_CONSTITUTION.md (default: 50 entries)
 - **Archive Format**: `/PrinciplesOS/archived-decisions-YYYY-MM.md`
+- **Review Cadence**: Track when decisions should be revisited based on context changes
 
 ### 4. Minimal Token Reasoning
 - **Goal**: Maximum 15 tokens per reasoning entry

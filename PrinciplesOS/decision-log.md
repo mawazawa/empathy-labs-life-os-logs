@@ -1,7 +1,7 @@
 # Decision Log - PrinciplesOS
 
-## Format: [TIMESTAMP] | [DECISION] | [REASONING] | [AUTHORITY]
+## Format: [TIMESTAMP] | [DECISION] | [REASONING] | [AUTHORITY] | [REVIEW_CADENCE]
 
-2025-11-06T23:42 | Create decision logging SOP | Track every decision with minimal tokens for audit trail | Mathieu directive
-2025-11-06T23:42 | Store decisions in PrinciplesOS | Centralize all SOP/decision logic under operations department | Mathieu directive
-2025-11-06T23:42 | Git commit every response | Ensure conversation persistence and accountability | Mathieu directive
+2025-11-06T23:42 | Create decision logging SOP | Track decisions with minimal tokens | Mathieu directive | Weekly
+2025-11-06T23:42 | Store decisions in PrinciplesOS | Centralize SOP/decision logic | Mathieu directive | Monthly
+2025-11-06T23:42 | Git commit every response | Ensure conversation persistence | Mathieu directive | Daily
