@@ -4,6 +4,45 @@
 
 Super-repo for EmpathyLabs projects: ACDC, LilScrappy, Unigami, PrinciplesOS, LifeOS.
 
+## Navigational Sitemap (4 levels deep, no node_modules)
+
+```
+EmpathyLabs/
+├── .life-os/                          # LifeOS: Personal Operating System
+│   └── PERSONAL_CONSTITUTION.md       # Presidential productivity framework
+├── life-os-logs/                      # LifeOS: Conversation tracking
+│   ├── conversation-log.md            # Verbatim conversation logs
+│   └── README.md
+├── LifeOS/                            # LifeOS: Personal productivity systems
+│   ├── implementation-plan.md          # Voice notes automation phases
+│   ├── linear-reorganization.md        # Team structure documentation
+│   ├── README.md
+│   └── team-consolidation-decision.md  # Single team decision rationale
+├── PrinciplesOS/                      # PrinciplesOS: Operations & morals department
+│   ├── decision-log.md                 # Decision tracking with review cadence
+│   ├── decision-logging-sop.md         # SOP for decision logging
+│   └── README.md
+├── WorkOS/                             # WorkOS: Professional execution domain
+│   ├── JusticeOS/                      # JusticeOS: Legal tech for the 99%
+│   │   ├── components/                  # React components
+│   │   ├── docs/                       # Documentation
+│   │   ├── lib/                        # Core libraries
+│   │   ├── migrations/                 # Database schema (90+ files)
+│   │   ├── supabase/                   # Backend services
+│   │   └── ui/                         # Frontend application
+│   ├── BillHero/                       # WorkOS: Attorney billing automation
+│   └── [Other professional projects]
+├── ACDC/                               # PrinciplesOS: Autocatalytic Processes
+│   └── README.md
+├── LilScrappy/                        # WorkOS: Lightweight scraping toolkit
+│   └── README.md
+├── Unigami/                            # WorkOS: Unified gaming platform
+│   └── README.md
+├── package.json                        # pnpm workspace configuration
+├── pnpm-workspace.yaml                 # Workspace definitions
+└── README.md                           # This file
+```
+
 ## Structure
 
 - `ACDC/` — Continuous Learning Experiment & JackAss Award Tracking
